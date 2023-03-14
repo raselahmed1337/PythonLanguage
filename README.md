@@ -1,10 +1,9 @@
 ## Python Fundamentals
 ```bash
-Fundamentals coding Practice
+Fundamental coding Practice.
 ```
 
 ## Python Project
 ```bash
-There are total 5 simple project
+There are total 5 simple project.
 ```
-
